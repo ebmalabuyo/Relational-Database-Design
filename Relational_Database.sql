@@ -1,5 +1,5 @@
-CREATE DATABASE bus_393_project;
-USE bus_393_project;
+CREATE DATABASE 393_project;
+USE 393_project;
 
 CREATE TABLE Supplier
 (SupplierID INT AUTO_INCREMENT PRIMARY KEY,
