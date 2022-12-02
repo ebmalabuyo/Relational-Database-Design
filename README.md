@@ -1,6 +1,7 @@
 Scope: 
 Project goal was to create a SQL database from the ground up, centered around a hypothetical retail store which contains information on different aspects which are relevant to this business. Information on all of its employees is stored along with identifying the supervisors and who they supervise. Product information are stored along with some information on the suppliers of each of the product. Purchases and their dates are also be recorded, and these will be tied to another table which specifically identifies which products were purchased as well as other necessary information. A table is also be made on the customers who made these purchases and some of their basic information. Additionally, the employee who conducted the purchase are also be identified.
 
+Demonstrated SQL fundamentals by further exploration of relational database.
 
 Business rules:
 -	This retail store is new, so it only currently has customers from the United States
